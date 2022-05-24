@@ -1,0 +1,9 @@
+[submodule "legacy"]
+	path = legacy
+	url = git@github.com:ericwburden/advent_of_code_legacy.git
+[submodule "2020"]
+	path = 2020
+	url = git@github.com:ericwburden/advent_of_code_2020.git
+[submodule "2021"]
+	path = 2021
+	url = git@github.com:ericwburden/advent_of_code_2021.git
