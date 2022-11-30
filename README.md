@@ -15,7 +15,7 @@ my thoughts about the puzzles in general.
 After solving the 2021 puzzles in Julia, I decided that I'd like to collect all 350 (as
 of 2021) stars from past years. Thus began an ~5 month journey of working on old AoC
 puzzles on and off in whatever free time I could scrounge up (from other, honestly more
-important things like spending time with family). The 'legacy' repo contains all the Julia code
+important things like spending time with family). The [legacy](https://github.com/ericwburden/advent_of_code_legacy) repo contains all the Julia code
 I wrote to earn those stars! I can't imagine that I'll try to blog about these, since 
 (a) these are old puzzles and not likely to be as interesting to others and (b) that's
 a lot of work!
