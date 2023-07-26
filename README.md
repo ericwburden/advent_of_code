@@ -26,3 +26,10 @@ This repo is just a shell for each year's AoC repositories. I've opted (at least
 now) to include each as a submodule here, giving me a lot of flexibility to set up and
 use other languages for future years, because I probably will. This way, I can have one
 repo per year (notwithstanding the legacy years) and link them all here.
+
+## How's It Going?
+
+I'm all caught up! (As of 2022, at least)
+
+![image](https://github.com/ericwburden/advent_of_code/assets/22438085/0ff8eac4-37ef-4d35-a8c9-6c977e25ce7e)
+
